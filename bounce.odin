@@ -1,7 +1,5 @@
 package dvd_bounce
 
-//An experiment that asks the forbidden question: Is it possible to move a sprite linearly with?
-
 import "core:fmt"
 import rl "vendor:raylib"
 
